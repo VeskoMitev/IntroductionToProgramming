@@ -10,6 +10,7 @@ namespace IntroductionToProgramming
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter your birthday(dd.mm.yyyy): ");
             DateTime yearOfBirth = DateTime.Parse( Console.ReadLine());
             Console.WriteLine("Now: {0:d}\nAfter 10 years: {1:d}", DateTime.Now.Year - yearOfBirth.Year, (DateTime.Now.Year - yearOfBirth.Year)+10);
         }
