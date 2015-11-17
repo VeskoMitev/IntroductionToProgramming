@@ -1,0 +1,12 @@
+Ìost popular programming languages.
+
+
+C#( CSharp) - is intended to be a simple, modern, general-purpose, object-oriented programming language.
+
+C – general-purpose programming language, mostly used for creating operating systems, hardware drivers and embedded devices, for close work with the hardware.
+
+C++ - general-purpose programming language, intermediate level – comprises both high-level and low-level language features.
+
+Visual Basic .NET (VB.NET) is a multi-paradigm, high level programming language, implemented on the .NET Framework. Microsoft launched VB.NET in 2002 as the successor to its original Visual Basic language.
+
+ 

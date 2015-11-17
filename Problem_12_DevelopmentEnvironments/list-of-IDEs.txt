@@ -1,0 +1,39 @@
+Integrated development environments
+
+
+1.Visual Studio
+Microsoft Visual Studio is an integrated development environment (IDE)
+from Microsoft. It is used to develop computer programs for Microsoft Windows, 
+as well as web sites, web applications and web services. Visual Studio uses 
+Microsoft software development platforms such as Windows API, Windows Forms, 
+Windows Presentation Foundation, Windows Store and Microsoft Silverlight. 
+It can produce both native code and managed code.
+
+2.MonoDevelop
+MonoDevelop is an open source integrated development environment for Linux,
+OS X, and Windows.Its primary focus is development of projects that use Mono 
+and .NET frameworks. MonoDevelop integrates features similar to those of NetBeans 
+and Microsoft Visual Studio, such as automatic code completion, source control, 
+a graphical user interface (GUI) and Web designer. MonoDevelop integrates a Gtk# 
+GUI designer called Stetic. It supports Boo, C, C++, C#, CIL, D, F#, Java, 
+Oxygene, Vala, and Visual Basic.NET.
+
+3.SharpDevelop
+SharpDevelop (also styled as #develop) is a free and open source integrated
+development environment (IDE) for the .NET Framework, Mono, Gtk# and Glade# platforms.
+It supports development in C#,Visual Basic .NET, Boo, F#,IronPython and IronRuby programming languages.
+
+4.Eclipse
+In computer programming, Eclipse is an integrated development environment (IDE). 
+It contains a base workspace and an extensible plug-in system for customizing the environment. 
+Eclipse is written mostly in Java and its primary use is for developing Java applications, 
+but it may also be used to develop applications in other programming languages through the use of plugins, 
+including: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Lua, NATURAL, Perl, 
+PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang.
+
+5.IntelliJ IDEA 
+IntelliJ IDEA is a Java integrated development environment (IDE) for developing computer software. 
+It is developed by JetBrains (formerly known as IntelliJ), and is available as an Apache 2 
+Licensed community edition, and in a proprietary commercial edition.
+
+source: wikipedia
